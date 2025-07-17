@@ -29,11 +29,11 @@ Creative and detail-oriented aspiring data analyst with a background in Mechanic
 | Title                                                     | Issuer                   | Date     | Link                                               |
 | --------------------------------------------------------- | ------------------------ | -------- | -------------------------------------------------- |
 | **Foundations of Data Science**                           | Google (Coursera)        | Dec 2024 | [Verify](https://coursera.org/verify/C4GE9B78K6O6) |
-| **Introduction to Deloitte Virtual Experience Programme** | Deloitte (Forage)        | Oct 2024 | [Forage](http://theforage.com/)                    |
-| **Consulting Job Simulation**                             | Accenture (Forage)       | Nov 2024 | [Forage](http://theforage.com/)                    |
-| **Power BI Job Simulation**                               | PwC Switzerland (Forage) | Jan 2025 | [Forage](http://theforage.com/)                    |
-| **Business Intelligence & Predictive Analytics 101**      | Udemy                    | Sep 2024 |                                                    |
-| **Sales Management (Frameworks & Processes)**             | Udemy                    | Aug 2024 |                                                    |
+| **Introduction to Deloitte Virtual Experience Programme** | Deloitte (Forage)        | Oct 2024 | [Forage](http://theforage.com/](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Deloitte%20Ireland/rWiuw5ggC5G6Xg9Su_Deloitte%20Ireland_cjEYdbztFYTTcMKrX_1727980795954_completion_certificate.pdf)                    |
+| **Consulting Job Simulation**                             | Accenture (Forage)       | Nov 2024 | [Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/KJGjQRHZ6eGquTKfF_xhih9yFWsf6AYfngd_cjEYdbztFYTTcMKrX_1730910934539_completion_certificate.pdf)                    |
+| **Power BI Job Simulation**                               | PwC Switzerland (Forage) | Jan 2025 | [Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_cjEYdbztFYTTcMKrX_1737470738212_completion_certificate.pdf)                    |
+| **Business Intelligence & Predictive Analytics 101**      | Udemy                    | Sep 2024 |  [Udemy](https://drive.google.com/file/d/1LuH_oWw0vA8Gnx-Bu3x5I-w2YsNxnjbB/view?usp=drive_link)|
+| **Sales Management (Frameworks & Processes)**             | Udemy                    | Aug 2024 |   [Udemy](https://drive.google.com/file/d/1ATboMUBRgraqXfWx2_JT38wkdysLD_sv/view?usp=drive_link)|                                  
 
 ---
 
@@ -41,10 +41,10 @@ Creative and detail-oriented aspiring data analyst with a background in Mechanic
 
 ### 🖼️ Preview / Download:
 
-* [📄 Google Foundations of Data Science (PDF)](./Google%20Coursera%20Certificate.pdf)
-* [📄 Deloitte Introduction Certificate (PDF)](./Deloitte%20Introduction%20Certificate%20of%20Completion.pdf)
-* [📄 Accenture Job Simulation Certificate (PDF)](./Accenture%20Forage.pdf)
-* [📄 PwC Power BI Job Simulation Certificate (PDF)](./PWC%20Forage.pdf)
+* [📄 Google Foundations of Data Science (PDF)](https://drive.google.com/file/d/1n42vDp73Csd3rmGnLZ5_pUJSJ1_RwM22/view?usp=drive_link)
+* [📄 Deloitte Introduction Certificate (PDF)](https://drive.google.com/file/d/1TRr4tD2a6vo4qhNGUmSl7VTr8G6mgqDP/view?usp=drive_link)
+* [📄 Accenture Job Simulation Certificate (PDF)](https://drive.google.com/file/d/1KpzWofdT7exHNQF0_16F3h8n4hVfUu10/view?usp=drive_link)
+* [📄 PwC Power BI Job Simulation Certificate (PDF)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_cjEYdbztFYTTcMKrX_1737470738212_completion_certificate.pdf)
 
 ---
 
