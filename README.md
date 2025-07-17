@@ -29,7 +29,7 @@ Creative and detail-oriented aspiring data analyst with a background in Mechanic
 | Title                                                     | Issuer                   | Date     | Link                                               |
 | --------------------------------------------------------- | ------------------------ | -------- | -------------------------------------------------- |
 | **Foundations of Data Science**                           | Google (Coursera)        | Dec 2024 | [Verify](https://coursera.org/verify/C4GE9B78K6O6) |
-| **Introduction to Deloitte Virtual Experience Programme** | Deloitte (Forage)        | Oct 2024 | [Forage](http://theforage.com/](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Deloitte%20Ireland/rWiuw5ggC5G6Xg9Su_Deloitte%20Ireland_cjEYdbztFYTTcMKrX_1727980795954_completion_certificate.pdf)                    |
+| **Introduction to Deloitte Virtual Experience Programme** | Deloitte (Forage)        | Oct 2024 | [Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Deloitte%20Ireland/rWiuw5ggC5G6Xg9Su_Deloitte%20Ireland_cjEYdbztFYTTcMKrX_1727980795954_completion_certificate.pdf)                    |
 | **Consulting Job Simulation**                             | Accenture (Forage)       | Nov 2024 | [Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/xhih9yFWsf6AYfngd/KJGjQRHZ6eGquTKfF_xhih9yFWsf6AYfngd_cjEYdbztFYTTcMKrX_1730910934539_completion_certificate.pdf)                    |
 | **Power BI Job Simulation**                               | PwC Switzerland (Forage) | Jan 2025 | [Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/4sLyCPgmsy8DA6Dh3/a87GpgE6tiku7q3gu_4sLyCPgmsy8DA6Dh3_cjEYdbztFYTTcMKrX_1737470738212_completion_certificate.pdf)                    |
 | **Business Intelligence & Predictive Analytics 101**      | Udemy                    | Sep 2024 |  [Udemy](https://drive.google.com/file/d/1LuH_oWw0vA8Gnx-Bu3x5I-w2YsNxnjbB/view?usp=drive_link)|
@@ -50,7 +50,7 @@ Creative and detail-oriented aspiring data analyst with a background in Mechanic
 
 ## 📑 Resume
 
-> 👉 [View My Resume (PDF)](./My%20Resume.pdf)
+> 👉 [View My Resume (PDF)](https://docs.google.com/document/d/1OWvLzfUa6ZgBZhT63_Y0rY9RfuogiAHp/edit?usp=drive_link&ouid=110546854022335229876&rtpof=true&sd=true)
 
 ---
 
